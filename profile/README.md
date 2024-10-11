@@ -110,5 +110,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 Contact us for questions or additional information:
-- Email: [contact@dehype.fun]
+- Email: [tech.openverse@gmail.com]
 - Twitter: [@dehype_fun](https://x.com/dehype_fun)
