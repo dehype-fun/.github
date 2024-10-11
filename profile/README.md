@@ -25,6 +25,7 @@ Dehype.fun is a decentralized prediction market and memecoin launchpad built on 
 ## Resources 🔗
 - [Live Application](https://dehype.fun)
 - [Official Documentation](https://docs.dehype.fun)
+- [Company Website](https://openverse.tech)
 - [Twitter](https://x.com/dehype_fun)
 - [Frontend Repository](https://github.com/dehype-fun/dehype-fe)
 - [Smart Contract Repository](https://github.com/dehype-fun/dehype-program)
@@ -100,7 +101,7 @@ To integrate with our platform, users simply need to:
 - Mobile app development in progress
 
 ## About Us 🤝
-Openverse is a team from Danang University of Science and Technology, with a track record of hackathon victories. We've formed a startup focused on Web3 innovation, specializing in decentralized applications and blockchain solutions.
+Openverse (openverse.tech) is a team from Danang University of Science and Technology, with a track record of hackathon victories. We've formed a startup focused on Web3 innovation, specializing in decentralized applications and blockchain solutions. Our company combines academic excellence with practical blockchain development expertise, delivering cutting-edge Web3 products and solutions.
 
 ## Contributing ✨
 We welcome contributions! Please review our contribution guidelines in each repository.
@@ -111,4 +112,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 Contact us for questions or additional information:
 - Email: [tech.openverse@gmail.com]
+- Website: [openverse.tech](https://openverse.tech)
 - Twitter: [@dehype_fun](https://x.com/dehype_fun)
